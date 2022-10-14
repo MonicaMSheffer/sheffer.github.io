@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Website is still being built, please excuse any weird pages for now! (13-October-2022)
+
 How I describe myself
 ======
 I am a molecular environmental biologist, working on how organisms respond to environmental change. My work integrates across levels of biological organization, from detailed studies of genetics, to what those mean for organismal phenotypes, and how that translates into population-level changes in distribution and fitness. 
