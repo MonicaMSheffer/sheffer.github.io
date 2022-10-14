@@ -12,6 +12,7 @@ Current position
 ======
 **Postdoctoral Scholar**, University of Washington: Department of Biology, since February 2022 
   **Project**: Fitness constraints in montane grasshoppers - NSF-funded Rules of Life Grant with PIs Lauren Buckley (UW Seattle), Caroline Williams (UC Berkeley), and  Sean Schoville (UW Madison)
+
 **UW Data Science Postdoctoral Fellow**: University of Washington eScience Institute, since April 2022
 
 
