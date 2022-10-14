@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Monica M Sheffer"
+title                    : "Monica M. Sheffer"
 title_separator          : "-"
-name                     : &name "Monica M Sheffer"
+name                     : &name "Monica M. Sheffer"
 description              : &description "molecular environmental biologist"
-url                      : https://monicamsheffer.github.io/sheffer.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sheffer.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "monicamsheffer.github.io/sheffer.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "MMSheffer.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Monica M Sheffer"
-  avatar           : "profile.png"
+  avatar           : "KSP07953-Edit.jpg"
   bio              : "Molecular environmental biologist"
   location         : "Seattle, Washington"
   employer         : "University of Washington"
