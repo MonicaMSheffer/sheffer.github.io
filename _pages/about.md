@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Website is still being built, please excuse any weird pages for now! (13-October-2022)
+Website is still being built, please excuse any weird pages for now! (13-February-2023)
 
 How I describe myself
 ======
